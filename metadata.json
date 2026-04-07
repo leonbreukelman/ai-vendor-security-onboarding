@@ -1,0 +1,5 @@
+{
+  "name": "AI Vendor Security Onboarding",
+  "description": "A conversational AI agent that guides vendors through a security assessment aligned with NIST AI RMF 1.0, generating a live assessment summary.",
+  "requestFramePermissions": []
+}
